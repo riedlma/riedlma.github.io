@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title: "Getting the ISpindel Started"
 date: 2018-03-18
 ---
