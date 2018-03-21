@@ -1,3 +1,17 @@
+
+#navigate_left {
+    float:left;
+    width:500px;
+    font-weight: bold;
+    color:black;
+    font-size: large;
+}
+
+
+
+nav {
+border-bottom: 15px solid #999;
+}
 *{
 font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
