@@ -16,7 +16,7 @@ title: Publications
 # Journals und Monologs
 
   * Martin Riedl (2016): Unsupervised Methods for Learning and Using Semantics of Natural Language, Dissertation, TU Darmstadt 
-  * 2015 Sunny Mitra, Ritwik Mitra, Suman Kalyan Maity, Martin Riedl, Chris Biemann, Pawan Goyal and Animesh Mukherjee (2015): An automatic approach to identify word sense changes in text media across timescale, Natural Language Engineering (NLE), Special issue on Graph Methods for NLP, Vol. 21, p. 773-798 
+  * Sunny Mitra, Ritwik Mitra, Suman Kalyan Maity, Martin Riedl, Chris Biemann, Pawan Goyal and Animesh Mukherjee (2015): An automatic approach to identify word sense changes in text media across timescale, Natural Language Engineering (NLE), Special issue on Graph Methods for NLP, Vol. 21, p. 773-798 
   * Chris Biemann, Martin Riedl (2013): Text: Now in 2D! A Framework for Lexical Expansion with Contextual Similarity. Journal of Language Modelling (JLM) 1(1), p.55-95 
   * Martin Riedl and Chris Biemann (2012): Text Segmentation with Topic Models. Journal for Language Technology and Computational Linguistics (JLCL), vol. 27, no. 1, p. 47-70 
   * Martin Riedl (2010): Using protein identification data to improve mass spec- trometry feature extraction, Master Thesis, HS Mannheim 
