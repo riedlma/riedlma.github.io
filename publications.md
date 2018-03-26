@@ -15,6 +15,7 @@ title: Publications
 	
 # Journals und Monologs
 
+  * Flavio Massimiliano Cecchini, Martin Riedl, Elisabetta Fersini, Chris Biemann (2018): A comparison of graph-based word sense induction clustering algorithms in a pseudoword evaluation framework, Language Resources and Evaluation (LRE), p. 1-38
   * Martin Riedl (2016): Unsupervised Methods for Learning and Using Semantics of Natural Language, Dissertation, TU Darmstadt 
   * Sunny Mitra, Ritwik Mitra, Suman Kalyan Maity, Martin Riedl, Chris Biemann, Pawan Goyal and Animesh Mukherjee (2015): An automatic approach to identify word sense changes in text media across timescale, Natural Language Engineering (NLE), Special issue on Graph Methods for NLP, Vol. 21, p. 773-798 
   * Chris Biemann, Martin Riedl (2013): Text: Now in 2D! A Framework for Lexical Expansion with Contextual Similarity. Journal of Language Modelling (JLM) 1(1), p.55-95 
