@@ -15,7 +15,7 @@ title: Activities
   * EACL 2017: The European Annual Meeting of the Association for Computational Linguistics
   * EMNLP 2013, 2014, 2015, 2017: Conference on Empirical Methods in Natural Language Processing
   * ESWC 2017, 2018: Extended Semantic Web Conference
-  * KONVENS 2012, 2016: The Conference on Natural Language Processing ("Konferenz zur Verarbeitung nat{\"u}rlicher Sprache")
+  * KONVENS 2012, 2016: The Conference on Natural Language Processing ("Konferenz zur Verarbeitung natürlicher Sprache")
   * LREC 2011, 2012, 2014, 2016: International Conference on Language Resources and Evaluation 
   * NAACL 2016, 2018: Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies
   * NLDB 2015, 2016, 2017, 2018: International Conference on Natural Language \& Information Systems
