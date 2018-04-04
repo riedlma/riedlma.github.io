@@ -24,6 +24,14 @@ title: Publications
   * Martin Riedl (2009): Usage of data mining to learn activity recognitions rules (in the field of ambient assisted living), Diploma Thesis, HS Mannheim 
   * Peter Findeisen, Diamandula Sismanidis, Martin Riedl, Victor Costina and Michael Neumaier (2005): Preanalytical impact of sample handling on pro- teome profiling experiments with matrix-assisted laser desorption/ionization time-of-flight mass spectrometry. Clinical chemistry, 51(12):2409-11 
 
+# Edited Volumes
+
+* Martin Riedl, Swapna Somasundaran, Goran Glavaš and Ed Hovy (Eds.) (2018): Proceedings of TextGraphs-12: Graph-based Methods for Natural Language Processing, San Diego, CA, USA, Association for Computational Linguistics
+* Martin Riedl, Swapna Somasundaran, Goran Glavaš and Ed Hovy (Eds.) (2017): Proceedings of TextGraphs-11: Graph-based Methods for Natural Language Processing, Vancouver, Canada, Association for Computational Linguistics
+* V.G.Vinod Vydiswaran, Martin Riedl, Tanmoy Chakraborty (Eds.) (2016): Proceedings of TextGraphs-10: Graph-based Methods for Natural Language Processing, San Diego, CA, USA, Association for Computational Linguistics
+
+
+
 #  Conferences
 
   * Seid Muhie Yimam, Sanja Štajner, Martin Riedl, Chris Biemann (2017): Complex Word Identification Task across Three Text Genres and Two User Groups. In Proceedings of The 8th International Joint Conference on Natural Language Processing (IJCNLP). Taipei, Taiwan 
