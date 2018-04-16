@@ -33,12 +33,12 @@ title: Publications
 
 
 #  Conferences
-
-  * Seid Muhie Yimam, Sanja Štajner, Martin Riedl, Chris Biemann (2017): Complex Word Identification Task across Three Text Genres and Two User Groups. In Proceedings of The 8th International Joint Conference on Natural Language Processing (IJCNLP). Taipei, Taiwan 
+  * Ahmed Elsafty, Martin Riedl, Chris Biemann (2018): Document-based Recommender System for Job Postings using Dense Representations, In Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies in the Industry Track (NAACL-HLT 2016). New Orleans, LO, USA
+  * Seid Muhie Yimam, Sanja Štajner, Martin Riedl, Chris Biemann (2017): Complex Word Identification Task across Three Text Genres and Two User Groups. In Proceedings of The 8th International Joint Conference on Natural Language Processing (IJCNLP), p. 401–407, Taipei, Taiwan 
   * Martin Riedl, Chris Biemann (2017): There’s no ‘Count or Predict’ but task-based selection for distributional models. In Proceedings of the 12th International Conference on Computational Semantics (IWCS). Montpellier, France 
-  * Seid Muhie Yimam, Sanja Štajner, Martin Riedl, Chris Biemann (2017): Multilingual and Cross-Lingual Complex Word Identification. In Proceedings of The 2017 International Conference on Recent Advances in Natural Language Processing (RANLP). Varna, Bulgaria 
-  * Prasanth Kolachina, Martin Riedl, Chris Biemann (2017): Replacing OOV Words For Dependency Parsing With Distributional Semantics. Proceedings of the Nordic Conference on Computational Linguistics (NoDaLiDa 2017), Gothenburg, Sweden 
-  * Flavio M. Cecchini, Martin Riedl, Chris Biemann (2017): Using Pseudowords for Algorithm Comparison: An Evaluation Framework for Graph-based Word Sense Induction. Proceedings of the Nordic Conference on Computational Linguistics (NoDaLiDa 2017), Gothenburg, Sweden 
+  * Seid Muhie Yimam, Sanja Štajner, Martin Riedl, Chris Biemann (2017): Multilingual and Cross-Lingual Complex Word Identification. In Proceedings of The 2017 International Conference on Recent Advances in Natural Language Processing (RANLP), p. 813–822, Varna, Bulgaria 
+  * Prasanth Kolachina, Martin Riedl, Chris Biemann (2017): Replacing OOV Words For Dependency Parsing With Distributional Semantics. Proceedings of the Nordic Conference on Computational Linguistics (NoDaLiDa 2017), p. 11-19, Gothenburg, Sweden 
+  * Flavio M. Cecchini, Martin Riedl, Chris Biemann (2017): Using Pseudowords for Algorithm Comparison: An Evaluation Framework for Graph-based Word Sense Induction. Proceedings of the Nordic Conference on Computational Linguistics (NoDaLiDa 2017), p. 105-114, Gothenburg, Sweden 
   * Martin Riedl, Tim Feuerbach and Chris Biemann (2016): Running into Brick Walls Attempting to Improve a Simple Unsupervised Parser, In: Proceedings of the Conference on Natural Language Processing (KONVENS 2016), p. 215-220, Bochum, Germany 
   * Alexander Panchenko, Johannes Simon, Martin Riedl and Chris Biemann (2016): Noun Sense Induction and Disambiguation using Graph-Based Distri- butional Semantics, In: Proceedings of the Conference on Natural Language Processing (KONVENS 2016), p. 192-202, Bochum, Germany 
   * Martin Riedl and Chris Biemann (2016): Unsupervised Compound Splitting With Distributional Semantics Rivals Supervised Methods. In: Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2016), p. 617-622, San Diego, CA, USA
