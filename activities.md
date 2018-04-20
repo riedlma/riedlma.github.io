@@ -12,6 +12,7 @@ title: Activities
 # Program committee for conferences and workshops (selected)
 
   * ACL 2015, 2017, 2018: The Annual Meeting of the Association for Computational Linguistics
+  * COLING 2016, 2018: International Conference on Computational Linguistics
   * EACL 2017: The European Annual Meeting of the Association for Computational Linguistics
   * EMNLP 2013, 2014, 2015, 2017: Conference on Empirical Methods in Natural Language Processing
   * ESWC 2017, 2018: Extended Semantic Web Conference
