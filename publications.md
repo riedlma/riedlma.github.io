@@ -33,7 +33,7 @@ title: Publications
 
 
 #  Conferences
-  * Ahmed Elsafty, Martin Riedl, Chris Biemann (2018): Document-based Recommender System for Job Postings using Dense Representations, In Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies in the Industry Track (NAACL-HLT 2016). New Orleans, LO, USA
+  * Ahmed Elsafty, Martin Riedl, Chris Biemann (2018): Document-based Recommender System for Job Postings using Dense Representations, In Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies in the Industry Track (NAACL-HLT 2018). New Orleans, LO, USA
   * Seid Muhie Yimam, Sanja Štajner, Martin Riedl, Chris Biemann (2017): Complex Word Identification Task across Three Text Genres and Two User Groups. In Proceedings of The 8th International Joint Conference on Natural Language Processing (IJCNLP), p. 401–407, Taipei, Taiwan 
   * Martin Riedl, Chris Biemann (2017): There’s no ‘Count or Predict’ but task-based selection for distributional models. In Proceedings of the 12th International Conference on Computational Semantics (IWCS). Montpellier, France 
   * Seid Muhie Yimam, Sanja Štajner, Martin Riedl, Chris Biemann (2017): Multilingual and Cross-Lingual Complex Word Identification. In Proceedings of The 2017 International Conference on Recent Advances in Natural Language Processing (RANLP), p. 813–822, Varna, Bulgaria 
