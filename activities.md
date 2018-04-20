@@ -31,3 +31,4 @@ title: Activities
   * JWS: Journal of Web Semantics
   * LREV: Journal of Language Resources and Evaluation
   * NLE: Journal of Natural Language Engineering
+  * SW: Semantic Web
