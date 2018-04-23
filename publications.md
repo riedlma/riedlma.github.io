@@ -33,6 +33,7 @@ title: Publications
 
 
 #  Conferences
+  * Martin Riedl, Sebastian Padó (2018): A Named Entity Recognition Shootout for German, In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), Melbourne, Australia
   * Ahmed Elsafty, Martin Riedl, Chris Biemann (2018): Document-based Recommender System for Job Postings using Dense Representations, In Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies in the Industry Track (NAACL-HLT 2018). New Orleans, LO, USA
   * Seid Muhie Yimam, Sanja Štajner, Martin Riedl, Chris Biemann (2017): Complex Word Identification Task across Three Text Genres and Two User Groups. In Proceedings of The 8th International Joint Conference on Natural Language Processing (IJCNLP), p. 401–407, Taipei, Taiwan 
   * Martin Riedl, Chris Biemann (2017): There’s no ‘Count or Predict’ but task-based selection for distributional models. In Proceedings of the 12th International Conference on Computational Semantics (IWCS). Montpellier, France 
