@@ -3,6 +3,8 @@ layout: default
 title: Publications
 ---
 
+A list of my publications can also be found on [Google Scholar](https://scholar.google.de/citations?user=tl-ChBEAAAAJ&hl=de).
+
 # Selected Publications
 
   * Seid Muhie Yimam, Sanja Štajner, Martin Riedl, Chris Biemann (2017): Complex Word Identification Task across Three Text Genres and Two User Groups. In Proceedings of The 8th International Joint Conference on Natural Language Processing (IJCNLP). Taipei, Taiwan 
