@@ -7,6 +7,7 @@ A list of my publications can also be found on [Google Scholar](https://scholar.
 
 # Selected Publications
 
+  * Martin Riedl, Sebastian Padó (2018): A Named Entity Recognition Shootout for German, In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), Melbourne, Australia
   * Seid Muhie Yimam, Sanja Štajner, Martin Riedl, Chris Biemann (2017): Complex Word Identification Task across Three Text Genres and Two User Groups. In Proceedings of The 8th International Joint Conference on Natural Language Processing (IJCNLP). Taipei, Taiwan 
   * Martin Riedl and Chris Biemann (2016): Unsupervised Compound Splitting With Distributional Semantics Rivals Supervised Methods. In: Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2016), p. 617-622, San Diego, CA, USA
   * Martin Riedl and Chris Biemann (2015): A Single Word is not Enough: Ranking Multiword Expressions Using Distributional Semantics. In: Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP 2015), p. 2430-2440, Lisboa, Portugal
