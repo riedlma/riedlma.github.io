@@ -7,10 +7,9 @@ A list of my publications can also be found on [Google Scholar](https://scholar.
 
 # Selected Publications
 
+  * Martin Riedl and Chris Biemann (2018): Using Semantics for Granularities of Tokenization, Computational Linguistics, vol. 44, no. 3, p.483-524
   * Martin Riedl, Sebastian Padó (2018): A Named Entity Recognition Shootout for German, In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), Melbourne, Australia
   * Seid Muhie Yimam, Sanja Štajner, Martin Riedl, Chris Biemann (2017): Complex Word Identification Task across Three Text Genres and Two User Groups. In Proceedings of The 8th International Joint Conference on Natural Language Processing (IJCNLP). Taipei, Taiwan 
-  * Martin Riedl and Chris Biemann (2016): Unsupervised Compound Splitting With Distributional Semantics Rivals Supervised Methods. In: Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2016), p. 617-622, San Diego, CA, USA
-  * Martin Riedl and Chris Biemann (2015): A Single Word is not Enough: Ranking Multiword Expressions Using Distributional Semantics. In: Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing (EMNLP 2015), p. 2430-2440, Lisboa, Portugal
   * Sunny Mitra, Ritwik Mitra,Martin Riedl, Chris Biemann, Animesh Mukherjee and Pawan Goyal (2014): That’s sick dude!: Automatic identification of word sense change across different timescales. In: Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (ACL 2014), p. 1020-1029, Baltimore, MD, USA
   * Chris Biemann, Martin Riedl (2013): Text: Now in 2D! A Framework for Lexical Expansion with Contextual Similarity. Journal of Language Modelling (JLM) 1(1), p.55-95 
   * Martin Riedl and Chris Biemann (2012): How Text Segmentation Algorithms Gain from Topic Models. In: Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2012), p. 553-557, Montreal, Canada
@@ -18,6 +17,7 @@ A list of my publications can also be found on [Google Scholar](https://scholar.
 	
 # Journals und Monologs
 
+  * Martin Riedl and Chris Biemann (2018): Using Semantics for Granularities of Tokenization, Computational Linguistics, vol. 44, no. 3, p.483-524
   * Flavio Massimiliano Cecchini, Martin Riedl, Elisabetta Fersini, Chris Biemann (2018): A comparison of graph-based word sense induction clustering algorithms in a pseudoword evaluation framework, Language Resources and Evaluation (LRE), p. 1-38
   * Martin Riedl (2016): Unsupervised Methods for Learning and Using Semantics of Natural Language, Dissertation, TU Darmstadt 
   * Sunny Mitra, Ritwik Mitra, Suman Kalyan Maity, Martin Riedl, Chris Biemann, Pawan Goyal and Animesh Mukherjee (2015): An automatic approach to identify word sense changes in text media across timescale, Natural Language Engineering (NLE), Special issue on Graph Methods for NLP, Vol. 21, p. 773-798 
