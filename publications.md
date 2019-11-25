@@ -29,6 +29,7 @@ A list of my publications can also be found on [Google Scholar](https://scholar.
 
 # Edited Volumes
 
+* Dmitry Ustalov, Swapna Somasundaran, Peter Jansen, Goran Glavaš, Martin Riedl, Mihai Surdeanu, Michalis Vazirgiannis (Eds.) (2019): Proceedings of TextGraphs-13: Graph-based Methods for Natural Language Processing, Hong Kong, Association for Computational Linguistics
 * Martin Riedl, Swapna Somasundaran, Goran Glavaš and Ed Hovy (Eds.) (2018): Proceedings of TextGraphs-12: Graph-based Methods for Natural Language Processing, San Diego, CA, USA, Association for Computational Linguistics
 * Martin Riedl, Swapna Somasundaran, Goran Glavaš and Ed Hovy (Eds.) (2017): Proceedings of TextGraphs-11: Graph-based Methods for Natural Language Processing, Vancouver, Canada, Association for Computational Linguistics
 * V.G.Vinod Vydiswaran, Martin Riedl, Tanmoy Chakraborty (Eds.) (2016): Proceedings of TextGraphs-10: Graph-based Methods for Natural Language Processing, San Diego, CA, USA, Association for Computational Linguistics
@@ -36,6 +37,7 @@ A list of my publications can also be found on [Google Scholar](https://scholar.
 
 
 #  Conferences
+  
   * Martin Riedl, Sebastian Padó (2018): A Named Entity Recognition Shootout for German, In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL), Melbourne, Australia
   * Ahmed Elsafty, Martin Riedl, Chris Biemann (2018): Document-based Recommender System for Job Postings using Dense Representations, In Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies in the Industry Track (NAACL-HLT 2018). New Orleans, LO, USA
   * Seid Muhie Yimam, Sanja Štajner, Martin Riedl, Chris Biemann (2017): Complex Word Identification Task across Three Text Genres and Two User Groups. In Proceedings of The 8th International Joint Conference on Natural Language Processing (IJCNLP), p. 401–407, Taipei, Taiwan 
@@ -61,6 +63,7 @@ A list of my publications can also be found on [Google Scholar](https://scholar.
  
 #  Workshops
 
+  * Martin Riedl, Daniela Betz, Sebastian Padó (2019): Clustering-Based Article Identification in Historical Newspapers, In Proceedings of the 3rd Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature in conjunction with NAACL 2019, p. 12-17, Melbourne, Australia
   * Martin Riedl and Chris Biemann (2016): Impact of MWE Resources on Multiword Recognition. In: Proceedings of the 12th Workshop on Multiword Expressions in conjunction with ACL 2016, p. 107-111, Berlin, Germany 
   * Seid Muhie Yimam and Héctor Martínez Alonso and Martin Riedl and Chris Biemann (2016): Learning Paraphrasing for Multiword Expressions. In: Pro- ceedings of the 12th Workshop on Multiword Expressions in conjunction with ACL 2016, p. 1-10, Berlin, Germany 
   * Alfio Gliozzo, Chris Biemann Chris, Martin Riedl, Bonaventura Coppola, Michael R. Glass and Matthew Hatem (2013): JoBimText Visualizer: A Graph- based Approach to Contextualizing Distributional Similarity. In: Proceedings of the 8th Workshop on TextGraphs held in conjunction with EMNLP 2013, p. 6-10, Seattle, WA, USA 
