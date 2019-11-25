@@ -5,12 +5,13 @@ title: Activities
 
 # Organization comittee
 
+  * TextGraphs-13: Graph-based Methods for Natural Language Processing, Workshop at EMNLP 2019, Hong Kong, 2019
   * TextGraphs-12: Graph-based Methods for Natural Language Processing, Workshop at NAACL 2018, New Orleans, LA, USA, 2018
   * TextGraphs-11: Graph-based Methods for Natural Language Processing, Workshop at ACL 2017, Vancouver, Canada, 2017
   * TextGraphs-10: Graph-based Methods for Natural Language Processing, Workshop at NAACL-HLT 2016, San Diego, CA, USA, 2016
 
 # Program committee for conferences and workshops (selected)
-
+  * AIII 2019: Conference on Artificial Intelligence
   * ACL 2015, 2017, 2018: The Annual Meeting of the Association for Computational Linguistics
   * COLING 2016, 2018: International Conference on Computational Linguistics
   * EACL 2017: The European Annual Meeting of the Association for Computational Linguistics
